@@ -12,7 +12,7 @@ The Smart Water Dispenser system was developed to provide precise temperature co
 - **Lukewarm Water**: 25°C to 35°C
 - **Real-Time Temperature Display**: Displayed on an LCD
 - **User-Selectable Cup Size**: Choose from 4s, 8s, or 15s cup sizes
-- **Safety Features**: Includes overheating protection and overflow warning
+- **Safety Features**: Includes overflow warning
 
 ### Implementation Approaches
 
