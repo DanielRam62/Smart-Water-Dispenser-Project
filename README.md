@@ -84,9 +84,10 @@ The system was thoroughly tested in both simulation and real-world implementatio
 
 - `hardware_implementation/`: Contains the circuit schematics, simulation results, and PCB designs.
 - `arduino_implementation/`: Contains the Arduino code and wiring diagrams.
-- `docs/`: Contains the project summary and presentation.
+- `docs/`: Contains the project summary, project poster and presentation.
 - `media/`: Contains video and images showcasing the project in action.
-
+- `Data_Sheets/`: Contains essential technical details about electronic components, including specifications and operating parameters.
+  
 ## Conclusion
 
 This project demonstrates the successful design and implementation of a Smart Water Dispenser system using both traditional hardware-based approaches and modern microcontroller-based techniques. The Arduino-based solution offers enhanced real-time control and user interaction, while the hardware-only version provides a solid foundation in analog and digital circuit design.
